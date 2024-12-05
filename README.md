@@ -1,3 +1,9 @@
+## Screenshots
+![Copy of High Level drawio](https://github.com/user-attachments/assets/c443f909-c42f-4352-8ee5-63ece496ff7c)
+![2024-12-04_18h57_29](https://github.com/user-attachments/assets/10378e23-be3d-4e7c-bec7-5b70b26df470)
+![2024-12-04_18h57_38](https://github.com/user-attachments/assets/f67ec562-24dc-4fad-a3d5-7256e3b15d20)
+
+---
 
 # LightBank Banking Program
 
@@ -62,13 +68,6 @@ A visual representation of the application workflow has been attached to this pu
   - Login authentication and error handling.
   - Account management actions (open, close, deposit, withdraw, transfer).
 - Integration tests ensure end-to-end functionality of the application workflow.
-
----
-
-## Screenshots
-![Copy of High Level drawio](https://github.com/user-attachments/assets/c443f909-c42f-4352-8ee5-63ece496ff7c)
-![2024-12-04_18h57_29](https://github.com/user-attachments/assets/10378e23-be3d-4e7c-bec7-5b70b26df470)
-![2024-12-04_18h57_38](https://github.com/user-attachments/assets/f67ec562-24dc-4fad-a3d5-7256e3b15d20)
 
 ---
 
